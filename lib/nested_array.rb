@@ -57,9 +57,9 @@ def sorted_matrix
   "Grapes",
   "Avocadoes",
   "Asparagus"
+    ].sort
     ]
-    ]
-    produce_storage_room.sort!
+    produce_storage_room
 end
 
 def matrix_lookup(matrix, row, column)
