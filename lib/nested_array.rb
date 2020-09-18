@@ -59,7 +59,7 @@ def sorted_matrix
   "Asparagus"
     ]
     ]
-    sorted = CONVENTIONAL_PRODUCE.sort
+    sorted = .sort
     sorted
 end
 
