@@ -59,7 +59,7 @@ def sorted_matrix
   "Asparagus"
     ]
     ]
-    sorted = .sort
+    sorted = produce_storage_room.sort
     sorted
 end
 
